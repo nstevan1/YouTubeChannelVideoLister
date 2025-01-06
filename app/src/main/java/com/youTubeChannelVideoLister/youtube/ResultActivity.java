@@ -1,4 +1,4 @@
-package com.example.youtube;
+package com.youTubeChannelVideoLister.youtube;
 import android.os.Bundle;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;

@@ -1,4 +1,4 @@
-package com.example.youtube;
+package com.youTubeChannelVideoLister.youtube;
 
 import org.junit.Test;
 
